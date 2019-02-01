@@ -7,6 +7,9 @@
 # Log file
 *.log
 
+#Ignore Spark metadbs
+metastore_db/
+
 # BlueJ files
 *.ctxt
 
